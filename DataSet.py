@@ -1,4 +1,3 @@
-from loss import hdr_scale
 from math import isnan
 import os
 import cv2
