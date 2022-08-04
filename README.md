@@ -17,3 +17,11 @@ organization: xx
 email for receiving link: xx
 ```
 
+#### Usage
+
+We encourage researchers to use the files we provide to split the dataset and access the dataset.
+
+The split file can be found in [split.json](./split.json);
+
+The `Pytorch Dataset Class` can be found in [Dataset.py](./DataSet.py)
+
