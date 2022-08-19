@@ -4,6 +4,11 @@
 
 This the webpage of our dataset named *FutureHouse* which is proposed in the paper, "PhyIR: Physics-based Inverse Rendering for Panoramic Indoor Images" ([Project page](http://yodlee.top/PhyIR/)). 
 
+#### News
+
++ 2022.08.19: release illumination data (KePanoLight V1). We had sent the download link of this data to researchers who have requested the dataset. Illumination V1 lacks the light probes of top and down faces. We will release the V2 once the rest data is done.
++ 2022.08.04: release the official interface code of dataset and the official split.
+
 #### Download
 
 Please send an email to yodlee@mail.nwpu.edu.cn with some necessary information and we will send a download link to you. 
