@@ -205,8 +205,8 @@ class KePanoMaterial(Dataset):
 
 
 class KePanoLighting(Dataset):
-    r"""read channel cube data,
-    it's format is .npz.
+    r"""read pano data, include pano lighting.
+    it's format is .hdr.
     example['image'],
     example['albedo'],
     example['normal'],
