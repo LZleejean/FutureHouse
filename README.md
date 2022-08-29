@@ -30,3 +30,16 @@ The split file can be found in [split.json](./split.json);
 
 The `Pytorch Dataset Class` can be found in [Dataset.py](./DataSet.py)
 
+#### Citation
+
+```
+@inproceedings{li2022phyir,
+    title={PhyIR: Physics-based Inverse Rendering for Panoramic Indoor Images},
+    author={Li, Zhen and Wang, Lingli and Huang, Xiang and Pan, Cihui and Yang, Jiaqi.},
+    booktitle = {Proc. IEEE Conf. on Computer Vision and Pattern Recognition (CVPR)}, 
+    year={2022}
+}
+```
+
+
+
