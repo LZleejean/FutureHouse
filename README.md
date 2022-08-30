@@ -1,15 +1,19 @@
 # FutureHouse
 
-#### Introduction
+|                         场景1                          |                         场景2                         |
+| :----------------------------------------------------: | :---------------------------------------------------: |
+| <img src="./figs/sample_1678.jpg" style="zoom:50%;" /> | <img src="./figs/sample_867.jpg" style="zoom:50%;" /> |
+
+#### 1. Introduction
 
 This the webpage of our dataset named *FutureHouse* which is proposed in the paper, "PhyIR: Physics-based Inverse Rendering for Panoramic Indoor Images" ([Project page](http://yodlee.top/PhyIR/)). 
 
-#### News
+#### 2. News
 
 + 2022.08.19: release illumination data (KePanoLight V1). We had sent the download link of this data to researchers who have requested the dataset. Illumination V1 lacks the light probes of top and down faces. We will release the V2 once the rest data is done.
 + 2022.08.04: release the official interface code of dataset and the official split.
 
-#### Download
+#### 3. Download
 
 Please send an email to yodlee@mail.nwpu.edu.cn with some necessary information and we will send a download link to you. 
 
@@ -22,15 +26,15 @@ organization: xx
 email for receiving link: xx
 ```
 
-#### Usage
+#### 4. Usage
 
 We encourage researchers to use the files we provide to split the dataset and access the dataset.
 
-The split file can be found in [split.json](./split.json);
+The split file can be found in [split.json](./split.json).
 
-The `Pytorch Dataset Class` can be found in [Dataset.py](./DataSet.py)
+The `Pytorch Dataset Class` can be found in [Dataset.py](./DataSet.py).
 
-#### Citation
+#### 5. Citation
 
 ```
 @inproceedings{li2022phyir,
